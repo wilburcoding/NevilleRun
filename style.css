@@ -1,0 +1,27 @@
+canvas {
+  margin: 0;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+button {
+  border: 2px solid black;
+  background-color: white;
+  border-radius: 15px;
+  padding: 5px 15px;
+}
+
+#start {
+  font-size: 30px;
+  width: 150px;
+  position: absolute;
+}
+canvas {
+  border:2px solid black;
+}
